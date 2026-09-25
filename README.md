@@ -1,16 +1,20 @@
-## Hi there 👋
+# Philip AI Addict
 
-<!--
-**philip-AIaddict/philip-AIaddict** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring AI engineering, agent workflows, developer tooling, and reusable
+skills for software development.
 
-Here are some ideas to get you started:
+## Public projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Claude Design Skills](https://github.com/philip-AIaddict/claudedesignskills)
+  provides skills and plugin bundles for modern web design, animation, WebGL,
+  and interactive 3D development.
+- [Copilot Collection](https://github.com/philip-AIaddict/copilot-collection)
+  contains reusable GitHub Copilot agents and skills for engineering workflows.
+- [Delivery Graph](https://github.com/philip-AIaddict/delivery-graph) provides a
+  graph-based workflow for designing, planning, executing, and verifying
+  software delivery.
+
+## Attribution
+
+These repositories are public forks of open-source projects. Their upstream
+history, authorship, and license notices are preserved in each fork.
